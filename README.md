@@ -1,4 +1,8 @@
-# PHPExcel - DEAD
+No maintenance
+
+This fork is for compatibility reasons (php 7.2) only, no further changes
+
+# PHPExcel
 
 PHPExcel last version, 1.8.1, was released in 2015. The project was officially deprecated in 2017 and permanently archived in 2019.
 
