@@ -20,7 +20,7 @@
     },
     "autoload": {
         "psr-0": {
-            "php-excel": "Classes/"
+            "PHPExcel_": "Classes/"
         }
     },
      "extra": {
