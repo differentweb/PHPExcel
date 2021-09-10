@@ -1,7 +1,7 @@
 <?php
 
 /**
- * PHPExcel_Trend_LinearBestFit
+ * PHPExcel_Shared_Trend_LinearBestFit
  *
  * Copyright (c) 2006 - 2015 PHPExcel
  *
@@ -25,7 +25,7 @@
  * @license    http://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt    LGPL
  * @version    ##VERSION##, ##DATE##
  */
-class PHPExcel_Trend_LinearBestFit extends PHPExcel_Trend_BestFit
+class PHPExcel_Shared_Trend_LinearBestFit extends PHPExcel_Shared_Trend_BestFit
 {
     /**
      * Algorithm type to use for best-fit
