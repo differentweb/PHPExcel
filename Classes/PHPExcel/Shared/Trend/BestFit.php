@@ -1,7 +1,7 @@
 <?php
 
 /**
- * PHPExcel_Best_Fit
+ * PHPExcel_Trend_BestFit
  *
  * Copyright (c) 2006 - 2015 PHPExcel
  *
@@ -25,7 +25,7 @@
  * @license    http://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt    LGPL
  * @version    ##VERSION##, ##DATE##
  */
-class PHPExcel_Best_Fit
+class PHPExcel_Trend_BestFit
 {
     /**
      * Indicator flag for a calculation error

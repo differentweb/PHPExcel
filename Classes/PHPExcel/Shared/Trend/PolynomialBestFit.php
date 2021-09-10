@@ -1,10 +1,9 @@
 <?php
 
-require_once PHPEXCEL_ROOT . 'PHPExcel/Shared/trend/bestFitClass.php';
 require_once PHPEXCEL_ROOT . 'PHPExcel/Shared/JAMA/Matrix.php';
 
 /**
- * PHPExcel_Polynomial_Best_Fit
+ * PHPExcel_Trend_PolynomialBestFit
  *
  * Copyright (c) 2006 - 2015 PHPExcel
  *
@@ -28,7 +27,7 @@ require_once PHPEXCEL_ROOT . 'PHPExcel/Shared/JAMA/Matrix.php';
  * @license    http://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt    LGPL
  * @version    ##VERSION##, ##DATE##
  */
-class PHPExcel_Polynomial_Best_Fit extends PHPExcel_Best_Fit
+class PHPExcel_Trend_PolynomialBestFit extends PHPExcel_Trend_BestFit
 {
     /**
      * Algorithm type to use for best-fit
