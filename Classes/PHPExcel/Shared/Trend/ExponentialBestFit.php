@@ -1,9 +1,7 @@
 <?php
 
-require_once(PHPEXCEL_ROOT . 'PHPExcel/Shared/trend/bestFitClass.php');
-
 /**
- * PHPExcel_Exponential_Best_Fit
+ * PHPExcel_Trend_ExponentialBestFit
  *
  * Copyright (c) 2006 - 2015 PHPExcel
  *
@@ -27,7 +25,7 @@ require_once(PHPEXCEL_ROOT . 'PHPExcel/Shared/trend/bestFitClass.php');
  * @license    http://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt    LGPL
  * @version    ##VERSION##, ##DATE##
  */
-class PHPExcel_Exponential_Best_Fit extends PHPExcel_Best_Fit
+class PHPExcel_Trend_ExponentialBestFit extends PHPExcel_Trend_BestFit
 {
     /**
      * Algorithm type to use for best-fit
